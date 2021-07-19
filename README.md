@@ -1,7 +1,7 @@
 # Basic Calculator
 Basic calculator made for treining. 
 
-<p align="center"><img src="./src/assets/img/calculadora-basic.png" title="Basic Form"></p>
+<p align="center"><img src="./src/assets/img/calculadora-basic.png" title="Basic Calculator"></p>
 
 
 <h3>👨‍💻 Used Technology</h3>
